@@ -19,9 +19,9 @@
 
 ### [Software](/Software)
 We do software stuff. Charles i need more info here.
-### [Hardware](ardreykellmakerclub.github.io/Hardware)
+### [Hardware](/Hardware)
 Again, I need more information, Charles.
-### [Systems](ardreykellmakerclub.github.io/Systems)
+### [Systems](/Systems)
 Please give me info on what to write before telling me to make a website.
 
 
