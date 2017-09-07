@@ -1,6 +1,6 @@
 # Welcome to Ardrey Kell's Maker Club!
 
-#### Who are we?
+**Who are we?**
 We are students at Ardrey Kell High School attempting to build things at school or something like that.
 
 ### What do we do?
