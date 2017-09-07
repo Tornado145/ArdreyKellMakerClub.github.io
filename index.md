@@ -27,7 +27,7 @@ We make Software and Hardware agree with each other. Vatsal is in charge of this
 Click on their names to learn more!
 ### President: [Charles Yang](/bio/chy.md)
 ### VP Software: [Michael Lee](/bio/mil.md)
-### VP Systems: [Vatsal Varma]/bio/vav.md)
+### VP Systems: [Vatsal Varma](/bio/vav.md)
 ### VP Hardware: [TBD but probably Tristan Wheeler](/bio/placeholder.md)
 ### Secretary/ICC Rep: [Justin Toledo, aka Smalls](/bio/jut.md)
 ### Treasurer: [Nikhil Tokala](bio/nit.md)
