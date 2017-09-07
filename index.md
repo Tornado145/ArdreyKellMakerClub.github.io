@@ -17,11 +17,22 @@
 ## Sections:
 
 ### [Software](ardreykellmakerclub.github.io/Software)
-We do software stuff. Charles i need more info here.
+We do software stuff. Michael is in charge of this.
 ### [Hardware](ardreykellmakerclub.github.io/Hardware)
-Again, I need more information, Charles.
+We build random stuff. Tristan will be in charge of this whether he likes it or not
 ### [Systems](ardreykellmakerclub.github.io/Systems)
-Please give me info on what to write before telling me to make a website.
+We make Software and Hardware agree with each other. Vatsal is in charge of this. 
+
+## Officers:
+click on their names to learn more!
+### President: [Charles Yang](ardreykellmakerclub.github.io/chybio.md)
+### VP Software: [Michael Lee](ardreykellmakerclub.github.io/milbio.md)
+### VP Systems: [Vatsal Varma](ardreykellmakerclub.github.io/vavbio.md)
+### VP Hardware: [TBD but probably Tristan Wheeler](ardreykellmakerclub.github.io/placeholderbio.md)
+### Secretary/ICC Rep: [Justin Toledo, aka Smalls](ardreykellmakerclub.github.io/jutbio.md)
+### Treasurer: [Nikhil Tokala](ardreykellmakerclub.github.io/nitbio.md)
+### Communications: [Daniel Hwang](ardreykellmakerclub.github.io/dahbio.md)
+
 
 
 NOTE I WILL CREATE LINKS TO THE OTHER PAGES FOR EXTRA INFORMATION ON THE SECTIONS OF THE CLUB.
