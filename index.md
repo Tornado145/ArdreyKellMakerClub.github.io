@@ -16,6 +16,7 @@
 
 ## Sections:
 
+<<<<<<< HEAD
 ### [Software](ardreykellmakerclub.github.io/Software)
 We do software stuff. Michael is in charge of this.
 ### [Hardware](ardreykellmakerclub.github.io/Hardware)
@@ -33,10 +34,16 @@ click on their names to learn more!
 ### Treasurer: [Nikhil Tokala](ardreykellmakerclub.github.io/nitbio.md)
 ### Communications: [Daniel Hwang](ardreykellmakerclub.github.io/dahbio.md)
 
+=======
+### [Software](/Software)
+We do software stuff. Charles i need more info here.
+### [Hardware](/Hardware)
+Again, I need more information, Charles.
+### [Systems](/Systems)
+Please give me info on what to write before telling me to make a website.
+>>>>>>> e99e7a6cb4cfa2ba4f5ada3177012d42089b7d70
 
 
 NOTE I WILL CREATE LINKS TO THE OTHER PAGES FOR EXTRA INFORMATION ON THE SECTIONS OF THE CLUB.
 
 ## Any Other Information I NEED TO ADD?
-
-testing
