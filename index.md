@@ -27,5 +27,3 @@ Please give me info on what to write before telling me to make a website.
 NOTE I WILL CREATE LINKS TO THE OTHER PAGES FOR EXTRA INFORMATION ON THE SECTIONS OF THE CLUB.
 
 ## Any Other Information I NEED TO ADD?
-
-testing
