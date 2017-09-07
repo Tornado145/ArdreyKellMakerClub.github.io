@@ -17,7 +17,7 @@
 
 ## Sections:
 
-### [Software](ardreykellmakerclub.github.io/Software)
+### [Software](/Software)
 We do software stuff. Charles i need more info here.
 ### [Hardware](ardreykellmakerclub.github.io/Hardware)
 Again, I need more information, Charles.
