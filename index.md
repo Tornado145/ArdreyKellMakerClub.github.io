@@ -1,13 +1,13 @@
 # Welcome to Ardrey Kell's Maker Club!
 
 **Who are we?**
-We are students at Ardrey Kell High School attempting to build things at school or something like that.
+-We are students at Ardrey Kell High School attempting to build things at school or something like that.
 
-### What do we do?
-We build stuff and code stuff and do stuff with machines.
+**What do we do?**
+-We build stuff and code stuff and do stuff with machines.
 
-### Where can you find us?
-In Mrs.Robinson's room, b30-something i don't remember only on some days that we meet or stuff.
+**Where can you find us?**
+-In Mrs.Robinson's room, b30-something i don't remember only on some days that we meet or stuff.
 
 ## Sections:
 
