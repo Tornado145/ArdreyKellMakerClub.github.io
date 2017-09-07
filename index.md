@@ -26,13 +26,13 @@ We make Software and Hardware agree with each other. Vatsal is in charge of this
 
 ## Officers:
 click on their names to learn more!
-### President: [Charles Yang](ardreykellmakerclub.github.io/chybio.md)
-### VP Software: [Michael Lee](ardreykellmakerclub.github.io/milbio.md)
-### VP Systems: [Vatsal Varma](ardreykellmakerclub.github.io/vavbio.md)
-### VP Hardware: [TBD but probably Tristan Wheeler](ardreykellmakerclub.github.io/placeholderbio.md)
-### Secretary/ICC Rep: [Justin Toledo, aka Smalls](ardreykellmakerclub.github.io/jutbio.md)
-### Treasurer: [Nikhil Tokala](ardreykellmakerclub.github.io/nitbio.md)
-### Communications: [Daniel Hwang](ardreykellmakerclub.github.io/dahbio.md)
+### President: [Charles Yang](/chybio.md)
+### VP Software: [Michael Lee](/milbio.md)
+### VP Systems: [Vatsal Varma](/vavbio.md)
+### VP Hardware: [TBD but probably Tristan Wheeler](/placeholderbio.md)
+### Secretary/ICC Rep: [Justin Toledo, aka Smalls](/jutbio.md)
+### Treasurer: [Nikhil Tokala](/nitbio.md)
+### Communications: [Daniel Hwang](/dahbio.md)
 
 =======
 ### [Software](/Software)
@@ -41,9 +41,6 @@ We do software stuff. Charles i need more info here.
 Again, I need more information, Charles.
 ### [Systems](/Systems)
 Please give me info on what to write before telling me to make a website.
->>>>>>> e99e7a6cb4cfa2ba4f5ada3177012d42089b7d70
-
-
 NOTE I WILL CREATE LINKS TO THE OTHER PAGES FOR EXTRA INFORMATION ON THE SECTIONS OF THE CLUB.
 
 ## Any Other Information I NEED TO ADD?
