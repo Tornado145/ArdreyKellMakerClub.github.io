@@ -24,7 +24,6 @@ We build random stuff. Tristan will be in charge of this whether he likes it or 
 We make Software and Hardware agree with each other. Vatsal is in charge of this. 
 
 ## Officers:
-<<<<<<< HEAD
 Click on their names to learn more!
 ### President: [Charles Yang](/bio/chy.md)
 ### VP Software: [Michael Lee](/bio/mil.md)
@@ -34,15 +33,6 @@ Click on their names to learn more!
 ### Treasurer: [Nikhil Tokala](bio/nit.md)
 ### Communications: [Daniel Hwang](/bio/dah.md)
 =======
-click on their names to learn more!
-### President: [Charles Yang](/chybio.md)
-### VP Software: [Michael Lee](/milbio.md)
-### VP Systems: [Vatsal Varma](/vavbio.md)
-### VP Hardware: [TBD but probably Tristan Wheeler](/placeholderbio.md)
-### Secretary/ICC Rep: [Justin Toledo, aka Smalls](/jutbio.md)
-### Treasurer: [Nikhil Tokala](/nitbio.md)
-### Communications: [Daniel Hwang](/dahbio.md)
->>>>>>> 14ceab139169fe6011257d3cc8f43ae5e937f3a4
 
 =======
 ### [Software](/Software)
