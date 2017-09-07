@@ -37,3 +37,4 @@ Click on their names to learn more!
 =======
 ## [Calendar](/calendar.md)
 
+THIS IS FOR DANIEL BECAUSE HE NEEDS SOMEWHERE TO WRITE THINGS I SWEAR IF YOU BREAK THE WEBSITE I WILL DESTROY YOUR LIFE
