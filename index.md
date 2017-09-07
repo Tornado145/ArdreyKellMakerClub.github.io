@@ -14,11 +14,11 @@
 
 ## Sections:
 
-### [Software](http://ardreykellmakerclub.github.io/Software)
+### [Software](ardreykellmakerclub.github.io/Software)
 We do software stuff. Charles i need more info here.
-### [Hardware](http://ardreykellmakerclub.github.io/Hardware)
+### [Hardware](ardreykellmakerclub.github.io/Hardware)
 Again, I need more information, Charles.
-### [Systems](http://ardreykellmakerclub.github.io/Systems)
+### [Systems](ardreykellmakerclub.github.io/Systems)
 Please give me info on what to write before telling me to make a website.
 
 
