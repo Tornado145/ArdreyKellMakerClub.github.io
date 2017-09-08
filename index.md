@@ -36,7 +36,7 @@ We run the club. Click on our names to learn more about us!
 ### President: [Charles Yang](/bio/chy "if you're reading this, hi!")
 ### VP Software: [Michael Lee](/bio/mil "I MAKE WEBSITE WORK SOMETIMES")
 ### VP Systems: [Vatsal Varma](/bio/vav "made a chess robot. nuf said.")
-### VP Hardware: [TBD but probably Tristan Wheeler](/bio/placeholder "still hasn't responded to my emails....")
+### VP Hardware: [TBD but probably Tristan Wheeler](/bio/trw "still hasn't responded to my emails....")
 ### Secretary/ICC Rep: [Justin Toledo, aka Smalls](/bio/jut "idk what to write here but he plays the tuba")
 ### Treasurer: [Nikhil Tokala](bio/nit "he's ok at math so he's doing finances")
 ### Communications: [Daniel Hwang](/bio/dah "he talks. a LOT.")
