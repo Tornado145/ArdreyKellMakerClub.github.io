@@ -3,6 +3,8 @@
 ## REQUIRED FORM TO DO IF YOU WANT TO BE IN CLUB
 [CLUB SIGN-UP SHEET](https://goo.gl/forms/OLAcnNZqATJGFplv2 "please fill this out honestly")
 
+<button class="button-save large">HTML works so embed google calendars. and the goodle form.</button>
+
 **Who are we?**
 
 -We are students at Ardrey Kell High School attempting to build things at school or something like that.
