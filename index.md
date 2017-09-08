@@ -16,11 +16,11 @@
 -In Mrs.Robinson's room, b30-something i don't remember only on some days that we meet or stuff.
 
 ## Sections:
-### [Software](ardreykellmakerclub.github.io/Software)
+### [Software](/Software)
 We do software stuff. Michael is in charge of this.
-### [Hardware](ardreykellmakerclub.github.io/Hardware)
+### [Hardware](/Hardware)
 We build random stuff. Tristan will be in charge of this whether he likes it or not
-### [Systems](ardreykellmakerclub.github.io/Systems)
+### [Systems](/Systems)
 We make Software and Hardware agree with each other. Vatsal is in charge of this. 
 
 ## Officers:
