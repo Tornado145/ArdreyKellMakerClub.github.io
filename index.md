@@ -1,7 +1,4 @@
-<head>
-	<title>does this work?</title>
-	<link rel="icon" href="/icon.png">
-</head>
+title: title?
 
 
 
