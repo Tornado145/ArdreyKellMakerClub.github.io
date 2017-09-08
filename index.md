@@ -4,7 +4,7 @@
 [CLUB SIGN-UP SHEET](https://goo.gl/forms/OLAcnNZqATJGFplv2 "please fill this out honestly")
 
 <button class="button-save large">HTML works so embed google calendars. and the goodle form.</button>
-![logo](/logo.jpg "you can do pictures too")
+
 **Who are we?**
 
 -We are students at Ardrey Kell High School attempting to build things at school or something like that.
@@ -32,7 +32,7 @@ We make Software and Hardware agree with each other. Vatsal is in charge of this
 ## Officers:
 We run the club. Click on our names to learn more about us!
 ### President: [Charles Yang](/bio/chy.md "if you're reading this, hi!")
-### VP Software: [Michael Lee](/bio/mil.md "in charge of maintaining this site")
+### VP Software: [Michael Lee](/bio/mil.md "I MAKE WEBSITE WORK SOMETIMES")
 ### VP Systems: [Vatsal Varma](/bio/vav.md "made a chess robot. nuf said.")
 ### VP Hardware: [TBD but probably Tristan Wheeler](/bio/placeholder.md "still hasn't responded to my emails....")
 ### Secretary/ICC Rep: [Justin Toledo, aka Smalls](/bio/jut.md "idk what to write here but he plays the tuba")
