@@ -1,7 +1,7 @@
 # Welcome to Ardrey Kell's Maker Club!
 
 ## REQUIRED FORM TO DO IF YOU WANT TO BE IN CLUB
-[CLUB SIGN-UP SHEET](https://goo.gl/forms/OLAcnNZqATJGFplv2)
+[CLUB SIGN-UP SHEET](https://goo.gl/forms/OLAcnNZqATJGFplv2 "please fill this out honestly")
 
 **Who are we?**
 
@@ -18,27 +18,26 @@
 ---
 
 ## Sections:
-### [Software](/Software)
+### [Software](/Software "codes and programmes!")
 We do software stuff. Michael is in charge of this.
-### [Hardware](/Hardware)
+### [Hardware](/Hardware "building things!")
 We build random stuff. Tristan will be in charge of this whether he likes it or not
-### [Systems](/Systems)
+### [Systems](/Systems "tbh i still have no idea what they do!")
 We make Software and Hardware agree with each other. Vatsal is in charge of this. 
 
 ---
 
 ## Officers:
 We run the club. Click on our names to learn more about us!
-### President: [Charles Yang](/bio/chy.md)
-### VP Software: [Michael Lee](/bio/mil.md)
-### VP Systems: [Vatsal Varma](/bio/vav.md)
-### VP Hardware: [TBD but probably Tristan Wheeler](/bio/placeholder.md)
-### Secretary/ICC Rep: [Justin Toledo, aka Smalls](/bio/jut.md)
-### Treasurer: [Nikhil Tokala](bio/nit.md)
-### Communications: [Daniel Hwang](/bio/dah.md)
+### President: [Charles Yang](/bio/chy.md "if you're reading this, hi!")
+### VP Software: [Michael Lee](/bio/mil.md "in charge of maintaining this site")
+### VP Systems: [Vatsal Varma](/bio/vav.md "made a chess robot. nuf said.")
+### VP Hardware: [TBD but probably Tristan Wheeler](/bio/placeholder.md "still hasn't responded to my emails....")
+### Secretary/ICC Rep: [Justin Toledo, aka Smalls](/bio/jut.md "idk what to write here but he plays the tuba")
+### Treasurer: [Nikhil Tokala](bio/nit.md "he's ok at math so he's doing finances")
+### Communications: [Daniel Hwang](/bio/dah.md "he talks. a LOT.")
 
 ---
 
-## [Calendar](/calendar.md)
-[//]: # (make an embeded calendar rather than whatever this is)
+## [Calendar](/calendar.md "MICHAEL CHANGE THIS INTO AN EMBEDDED CALLENDAR AND MOVE IT UP")
 THIS IS FOR DANIEL BECAUSE HE NEEDS SOMEWHERE TO WRITE THINGS I SWEAR IF YOU BREAK THE WEBSITE I WILL DESTROY YOUR LIFE
