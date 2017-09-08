@@ -13,8 +13,11 @@ If you need to go back to the main page, [click here](ardreykellmakerclub.github
 ## Focus of the Section:
 
 The Software section is in charge of the coding of pretty much anything and everything for the club. That includes...
+
 Coding Robots that we may or may not build to do stuff.
+
 Coding Video Games. Yes, we will do this. Eventually.
+
 Coding um... yea we will do that.
 
 ## Extra Information:
@@ -22,6 +25,10 @@ Coding um... yea we will do that.
 You will need:
 
 A flash drive
+
+
 A Brain
+
 Some Fingers
+
 Some Common Sense
