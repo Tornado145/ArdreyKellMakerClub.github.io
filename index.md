@@ -3,13 +3,8 @@
 ## REQUIRED FORM TO DO IF YOU WANT TO BE IN CLUB
 [CLUB SIGN-UP SHEET](https://goo.gl/forms/OLAcnNZqATJGFplv2 "please fill this out honestly")
 
-<<<<<<< HEAD
 <button class="button-save large">HTML works so embed google calendars. and the google form.</button>
 ![logo](/logo.jpg "you can do pictures too")
-=======
-<button class="button-save large">HTML works so embed google calendars. and the goodle form.</button>
-
->>>>>>> 658b2ec3951f43cc86eb50c1064bad9fd1210e8b
 **Who are we?**
 
 -We are students at Ardrey Kell High School attempting to build things at school or something like that.
@@ -29,7 +24,7 @@
 We do software stuff. Michael is in charge of this.
 ### [Hardware](/Hardware "building things!")
 We build random stuff. Tristan will be in charge of this whether he likes it or not
-### [Systems](/Systems "tbh i still have no idea what they do!")
+### [Systems](/Systems "tbh i still have no idea what they do...")
 We make Software and Hardware agree with each other. Vatsal is in charge of this. 
 
 ---
