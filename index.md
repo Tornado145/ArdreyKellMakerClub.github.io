@@ -1,9 +1,8 @@
 # Welcome to Ardrey Kell's Maker Club!
 
 ## REQUIRED FORM TO DO IF YOU WANT TO BE IN CLUB
-[CLUB SIGN-UP SHEET](https://goo.gl/forms/OLAcnNZqATJGFplv2 "please fill this out honestly")
 
-<button class="button-save large"> [Club Sign Up Sheet](https://goo.gl/forms/OLAcnNZqATJGFplv2) </button>
+<button class="button-save large"> [Club Sign Up Sheet](https://goo.gl/forms/OLAcnNZqATJGFplv2 "Please Fill This Out") </button>
 
 <img src="akknight.png" width="200" height="200" />
 
