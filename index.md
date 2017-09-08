@@ -31,15 +31,15 @@ We make Software and Hardware agree with each other. Vatsal is in charge of this
 
 ## Officers:
 We run the club. Click on our names to learn more about us!
-### President: [Charles Yang](/bio/chy.md "if you're reading this, hi!")
-### VP Software: [Michael Lee](/bio/mil.md "I MAKE WEBSITE WORK SOMETIMES")
-### VP Systems: [Vatsal Varma](/bio/vav.md "made a chess robot. nuf said.")
-### VP Hardware: [TBD but probably Tristan Wheeler](/bio/placeholder.md "still hasn't responded to my emails....")
-### Secretary/ICC Rep: [Justin Toledo, aka Smalls](/bio/jut.md "idk what to write here but he plays the tuba")
-### Treasurer: [Nikhil Tokala](bio/nit.md "he's ok at math so he's doing finances")
-### Communications: [Daniel Hwang](/bio/dah.md "he talks. a LOT.")
+### President: [Charles Yang](/bio/chy "if you're reading this, hi!")
+### VP Software: [Michael Lee](/bio/mil "I MAKE WEBSITE WORK SOMETIMES")
+### VP Systems: [Vatsal Varma](/bio/vav "made a chess robot. nuf said.")
+### VP Hardware: [TBD but probably Tristan Wheeler](/bio/placeholder "still hasn't responded to my emails....")
+### Secretary/ICC Rep: [Justin Toledo, aka Smalls](/bio/jut "idk what to write here but he plays the tuba")
+### Treasurer: [Nikhil Tokala](bio/nit "he's ok at math so he's doing finances")
+### Communications: [Daniel Hwang](/bio/dah "he talks. a LOT.")
 
 ---
 
-## [Calendar](/calendar.md "MICHAEL CHANGE THIS INTO AN EMBEDDED CALLENDAR AND MOVE IT UP")
+## [Calendar](/calendar "MICHAEL CHANGE THIS INTO AN EMBEDDED CALLENDAR AND MOVE IT UP")
 THIS IS FOR DANIEL BECAUSE HE NEEDS SOMEWHERE TO WRITE THINGS I SWEAR IF YOU BREAK THE WEBSITE I WILL DESTROY YOUR LIFE
