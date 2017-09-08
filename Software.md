@@ -1,6 +1,6 @@
 # Welcome to the AK Maker's Club Software Page!
 
-If you need to go back to the main page, [click here](ardreykellmakerclub.github.io).
+If you need to go back to the main page, [click here](/index.md).
 
 ## Section Specific Rules:
 
