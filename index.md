@@ -4,7 +4,7 @@
 [CLUB SIGN-UP SHEET](https://goo.gl/forms/OLAcnNZqATJGFplv2 "please fill this out honestly")
 
 <button class="button-save large">HTML works so embed google calendars. and the google form.</button>
-![logo](/akknight.png "you can do pictures too")
+![logo](/akknight.png = 250x250 "you can do pictures too")
 **Who are we?**
 
 -We are students at Ardrey Kell High School attempting to build things at school or something like that.
