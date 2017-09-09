@@ -2,8 +2,10 @@
 title: Michael Lee
 subtitle: VP Software
 layout: bio
-
 ---
+
+If you need to go back to the main page, [click here](/index.md).
+
 Hi!
 
 I'm Michael Lee, and I make coding for the computer thingys that sometimes work and other times just make things crash and burn.
