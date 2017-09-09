@@ -5,7 +5,7 @@ toc:
   url: /
 
 - title: Divisions
-  url: /division/
+  url: /division/Divisions
   sublinks:
     - title: Hardware
       url: /division/Hardware
@@ -15,7 +15,7 @@ toc:
       url: /division/Systems
 
 - title: Officers
-  url: /bio/
+  url: /bio/Officers
   sublinks:
     - title: President
       url: /bio/chy
