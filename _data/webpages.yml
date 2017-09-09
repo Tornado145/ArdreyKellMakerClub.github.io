@@ -1,0 +1,15 @@
+wepbage_list_title: Directory
+webpages:
+
+- title: Home
+  url: /
+
+- title: Divisions
+  url: /division/
+  sublinks:
+    - title: Hardware
+      url: /division/Hardware.md
+    - title: Software
+      url: /division/Software.md
+    - title: Systems
+      url: /division/Systems.md
