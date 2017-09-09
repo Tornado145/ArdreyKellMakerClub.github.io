@@ -17,17 +17,17 @@ toc:
 - title: Officers
   url: /bio/
   sublinks:
-    -title: President
-     url: /bio/chy
-    -title: VP Software
-     url: /bio/mil
-    -title: VP Systems
-     url: /bio/vav
-    -title: VP Hardware
-     url: /bio/trw
-    -title: Sec/ICC
-     url: /bio/jut
-    -title: Treasurer
-     url: /bio/nit
-    -title: Communications
-     url: /bio/dah
+    - title: President
+      url: /bio/chy
+    - title: VP Software
+      url: /bio/mil
+    - title: VP Systems
+      url: /bio/vav
+    - title: VP Hardware
+      url: /bio/trw
+    - title: Sec/ICC
+      url: /bio/jut
+    - title: Treasurer
+      url: /bio/nit
+    - title: Communications
+      url: /bio/dah
