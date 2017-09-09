@@ -8,8 +8,8 @@ toc:
   url: /division/
   sublinks:
     - title: Hardware
-      url: /division/Hardware.md
+      url: /division/Hardware
     - title: Software
-      url: /division/Software.md
+      url: /division/Software
     - title: Systems
-      url: /division/Systems.md
+      url: /division/Systems
