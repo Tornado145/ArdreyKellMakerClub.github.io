@@ -1,5 +1,6 @@
 ---
 title: Michael Lee
+subtitle: VP Software
 layout: bio
 
 ---

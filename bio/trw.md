@@ -1,5 +1,6 @@
 ---
 title: Tristan Wheeler
+subtitle: VP Hardware
 layout: bio
 ---
 Have some text here about your life or something.

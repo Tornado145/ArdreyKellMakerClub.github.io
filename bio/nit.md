@@ -1,4 +1,5 @@
 ---
-title:Nikhil Tokala
+title: Nikhil Tokala
+subtitle: Treasurer
 layout: bio
 ---
