@@ -13,7 +13,5 @@ title: Contact us!
 ## President
 ### Charles Yang
   > email: [charlesfengyang@gmail.com](charlesfengyang@gmail.com)
-  
-  > skype: daedalus1235
-  
+  > skype: daedalus1235  
   > github: @daedalus1235
