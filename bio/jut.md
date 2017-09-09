@@ -1,1 +1,4 @@
-# Justin Toledo
+---
+title: Justin Toledo
+layout: bio
+---

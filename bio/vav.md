@@ -1,1 +1,4 @@
-# Vatsal Varma
+---
+title: Vatsal Varma
+layout: bio
+---

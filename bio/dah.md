@@ -1,1 +1,4 @@
-Daniel Hwang's Bio
+---
+title: Daniel Hwang
+layout: bio
+---

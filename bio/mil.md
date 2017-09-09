@@ -1,5 +1,8 @@
-# Michael Lee
+---
+title: Michael Lee
+layout: bio
 
+---
 Hi!
 
 I'm Michael Lee, and I make coding for the computer thingys that sometimes work and other times just make things crash and burn.
