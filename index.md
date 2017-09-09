@@ -1,6 +1,5 @@
 ---
 title: AK Maker Club
-subtitle: Welcome!
 layout: default
 ---
 
