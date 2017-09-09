@@ -2,6 +2,40 @@
 <html lang="en-US">
 
   <head>
+<style>
+body {margin:0;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+</style>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
@@ -24,8 +58,13 @@
 
   </head>
 
-  <body>
-
+  <body>	  
+<ul>
+  <li><a class="active" href="ardreykellmakerclub.github.io">Home</a></li>
+  <li><a href="ardreykellmakerclub.github.io/calendar.html">Calendar</a></li>
+  <li><a href="#">Another Link</a></li>
+  <li><a href="#about">About</a></li>
+</ul>  
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
