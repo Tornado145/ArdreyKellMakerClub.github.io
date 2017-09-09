@@ -4,21 +4,21 @@
   url: /
 
 - title: Divisions
-  url: /division/divisions
+  url: /division/
   sublinks:
     - title: Hardware
       url: /division/Hardware
     - title: Software
-      url: /division/si2
+      url: /division/Software
     - title: Systems
-      url: /division/si3
+      url: /division/Systems
       
 - title: Officers
   url: /bios/
   sublinks:
-    - title: Sub-item 1
-      url: /bios/si1
-    - title: Sub-item 2
-      url: /bios/si2
-    - title: Sub-item 3
-      url: /bios/si3
+    - title: President
+      url: /bios/chy
+    - title: VP Software
+      url: /bios/mil
+    - title: VP Systems
+      url: /bios/vav
