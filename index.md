@@ -25,11 +25,11 @@ title: AK Maker Club
 ---
 
 ## Sections:
-### [Software](/Software "codes and programmes!")
+### [Software](division/Software "codes and programmes!")
 We do software stuff. Michael is in charge of this.
-### [Hardware](/Hardware "building things!")
+### [Hardware](division/Hardware "building things!")
 We build random stuff. Tristan will be in charge of this whether he likes it or not
-### [Systems](/Systems "tbh i still have no idea what they do...")
+### [Systems](division/Systems "tbh i still have no idea what they do...")
 We make Software and Hardware agree with each other. Vatsal is in charge of this. 
 
 ---
