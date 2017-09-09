@@ -3,7 +3,7 @@ title: Contact us!
 ---
 ## General Concerns
   > email: <akmakerclub@gmail.com>
-  > github: @akmakerclub
+    github: @akmakerclub
 ## Head of Divisions
 ### Software
 Michael Lee
@@ -18,5 +18,5 @@ Tristan Wheeler
 ### President
 Charles Yang
   > email: <charlesfengyang@gmail.com>
-  > skype: daedalus1235  
-  > github: @daedalus1235
+    skype: daedalus1235  
+    github: @daedalus1235
