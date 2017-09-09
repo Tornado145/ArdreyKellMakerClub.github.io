@@ -1,5 +1,6 @@
 ---
 title: AK Maker Club
+layout: default
 ---
 
 # Welcome to Ardrey Kell's Maker Club!
