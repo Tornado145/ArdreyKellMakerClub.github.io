@@ -1,7 +1,6 @@
 ---
 title: Charles Yang
 subtitle: President
-layout: bio
 ---
 Hi!
 
