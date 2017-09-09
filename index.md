@@ -1,5 +1,5 @@
 ---
-title: This is my title
+title: AK Maker Club
 ---
 
 # Welcome to Ardrey Kell's Maker Club!
